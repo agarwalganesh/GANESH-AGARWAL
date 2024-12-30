@@ -9,8 +9,8 @@ body{
         color: white;
         padding: 20px;
         margin: 20px;
-        position: sticky;
-        top: 0;
+        /* position: sticky;
+        top: 0; */
        
     }
     .port{
@@ -80,10 +80,10 @@ body{
          display: flex;
           justify-content: center;
     }
-    h1{
+    /* h1{
         color: white;
          font-size:30px;
-    }
+    } */
     .name{
        color: greenyellow;
        font-size: 60px;
