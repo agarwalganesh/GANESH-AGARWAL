@@ -1,0 +1,93 @@
+body{
+    background:black;
+    color: white;
+}
+    header{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        color: white;
+        padding: 20px;
+        margin: 20px;
+        position: sticky;
+        top: 0;
+       
+    }
+    .port{
+        font-size: 30px;
+        color: yellow;
+    }
+    nav{
+        display: flex;
+        flex-direction: row;
+        gap: 30px   ;
+        font-size: 20px;
+    }
+   nav a{
+        justify-content: space-evenly;
+        text-decoration: none;
+        color: chocolate;
+        
+        
+    }
+    img{
+        width: 400px;
+        height: 500px;
+        border-radius: 100%;
+        padding-left: 20px;
+       
+    }
+    .myself{
+        margin: 100px;
+        padding: 50PX;
+        
+    }
+    .icon span{
+        border: 1px solid red;
+        border-radius: 50%;
+        padding: 10px;
+        margin: 5px;
+    }
+    .cont{
+            margin:20px;
+    }
+    .cont span{
+        border: 1px solid yellow;
+         background-color: yellowgreen; 
+         border-radius: 10px; 
+         padding: 5px;
+    }
+
+
+    /* 2nd section css */
+    .pic{
+        border-radius: 60PX;
+        margin-right: 100px;
+
+    }
+    p{
+        padding: px;
+        font-weight: bold;
+        font-size: 20px;
+        align-items: center;
+        gap: 2px;
+        line-height:30px;
+         display: flex; 
+         justify-content: center;
+    }
+    .about{
+        color: yellowgreen;
+         display: flex;
+          justify-content: center;
+    }
+    h1{
+        color: white;
+         font-size:30px;
+    }
+    .name{
+       color: greenyellow;
+       font-size: 60px;
+    }
+    .namee{
+        color: greenyellow;
+    }
