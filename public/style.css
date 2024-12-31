@@ -116,15 +116,15 @@ body{
   
 
 
-  .img2{
-    width: 700px;
-    height: 900px;
+  #about{
+
+    margin-bottom: 60px;
   }
   
   .education-section {
     text-align: center;
     width: 90%;
-    max-width: 600px;
+    max-width: 800px;
     align-items: center;
   }
   
